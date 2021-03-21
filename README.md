@@ -1,4 +1,4 @@
-# Deep Learning Premier League Football Prediction Model
+# Deep Learning Football Prediction Model (Premier League)
 
 <div style="text-align:center"><img src="/acc.png" alt="Accuracy Graphs" /></div>
 ^TensorBoard graph showing accuracy (validation set) by epoch
